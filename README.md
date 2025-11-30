@@ -24,10 +24,10 @@ Units-per-customer & Avg Price per Unit
 
 Revenue Contibution
 
-<img width="1308" height="739" alt="image" src="https://github.com/user-attachments/assets/0157f5df-ab84-4cb4-aea7-cb7fcb0cf554" />
+<img width="1418" height="793" alt="image" src="https://github.com/user-attachments/assets/dce7e0c3-20cf-40b5-9689-be16b6f140b5" />
+<br>
+<img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/45c0ab52-37b3-4f2b-94fd-f94edd607cdb" />
 
-
-<img width="1136" height="632" alt="image" src="https://github.com/user-attachments/assets/03501b38-1aec-4791-b3f7-a17834f9e118" />
 
 2. Data Exploration & Customer Insights
 
