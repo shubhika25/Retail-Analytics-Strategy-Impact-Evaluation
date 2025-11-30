@@ -37,7 +37,7 @@ This project evaluates the impact of a retail marketing trial by comparing trial
 
 <img width="1418" height="793" alt="image" src="https://github.com/user-attachments/assets/dce7e0c3-20cf-40b5-9689-be16b6f140b5" />
 <br>
-<img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/45c0ab52-37b3-4f2b-94fd-f94edd607c
+<img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/45c0ab52-37b3-4f2b-94fd-f94edd607cdb" />
 
 The dashboard is designed in a **clean business-ready layout**, with custom sidebar navigation, KPI cards, and consistent theme styling.
 
