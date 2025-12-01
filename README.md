@@ -1,7 +1,7 @@
 #  Retail Marketing Trial – Sales Uplift Analysis  
 ### A Statistical Impact Evaluation Using Trial & Control Stores
 
-This project evaluates the impact of a retail marketing trial by comparing trial-store performance against carefully matched control stores. The analysis identifies whether the trial produced a genuine, statistically reliable uplift in sales beyond expected behavior. Results are communicated through a clean, professional Power BI dashboard.
+This project evaluates the impact of a retail marketing trial by comparing trial-store performance against carefully matched control stores. The analysis identifies whether the trial produced a genuine, statistically reliable uplift in sales beyond expected behavior.
 
 ---
 
@@ -10,7 +10,7 @@ This project evaluates the impact of a retail marketing trial by comparing trial
 - Conducted a full sales uplift assessment using pre-trial baseline behaviour and matched control stores.  
 - Normalized control-store performance using scaling to ensure fair comparison with trial stores.  
 - Measured whether trial sales exceeded statistically expected ranges using confidence-based validation.  
-- Designed a modern Power BI dashboard summarizing uplift results and customer insights.
+- Designed a modern Power BI dashboard summarizing customer insights.
 
 ---
 
@@ -18,18 +18,8 @@ This project evaluates the impact of a retail marketing trial by comparing trial
 
 - One trial store showed a clear, statistically significant positive uplift during the marketing campaign.  
 - Another trial store showed moderate uplift with mixed confidence.  
-- Premium customers, specific brands, and young-family demographics contributed meaningfully to uplift.  
-- Power BI visualizations presented results clearly for business and leadership review.
-
----
-
-##  Deliverables
-
-- End-to-end uplift modeling for multiple trial stores  
-- Trial vs. control comparison visualized across the full timeline  
-- Confidence-based uplift indicators for statistical validation  
-- Customer and product-level insight pages  
-- A clean, interactive Power BI dashboard with navigation and KPI cards  
+- Premium customers, specific brands, and young-family contributed meaningfully to uplift.  
+- Power BI visualizations presenting sales Overview and Customer Analysis
 
 ---
 
