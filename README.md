@@ -1,5 +1,5 @@
 #  Retail Marketing Trial – Sales Uplift Analysis  
-### A Statistical Impact Evaluation Using Trial & Control Stores
+
 
 This project evaluates the impact of a retail marketing trial by comparing trial-store performance against carefully matched control stores. The analysis identifies whether the trial produced a genuine, statistically reliable uplift in sales beyond expected behavior.
 
