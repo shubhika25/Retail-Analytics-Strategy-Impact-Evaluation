@@ -1,9 +1,33 @@
-#  Retail Marketing Trial – Sales Uplift Analysis  
+#  Situation
 
+A retail client operating multiple stores wanted to understand:
+Which customer segments preferred specific products.
+Which segments should be targeted to drive higher sales.
+Whether changes in store layout or marketing strategy resulted in a measurable sales uplift.
 
-This project evaluates the impact of a retail marketing trial by comparing trial-store performance against carefully matched control stores. The analysis identifies whether the trial produced a genuine, statistically reliable uplift in sales beyond expected behavior.
+# Task
 
----
+Evaluate the impact of the trial by:
+
+Performing exploratory customer and sales analysis.
+Building a dashboard summarizing insights.
+Identifying matched control stores.
+Comparing trial vs control to quantify uplift statistically.
+
+# Action
+
+Conducted extensive EDA to understand customer behavior, segment preferences, and historical sales patterns.
+Designed an interactive Power BI dashboard providing Sales Overview, Customer Segmentation, and Store Performance insights.
+Selected control stores based on similarity to the trial stores across multiple KPIs (correlation + distance metrics).
+Applied normalization/scaling to align baseline performance for fair comparison.
+Performed trial-period uplift analysis using confidence intervals and statistical validation.
+
+# Result
+
+Identified clear customer segments for targeted campaigns.
+Measured the true uplift in trial stores beyond normal expected variation.
+Demonstrated whether the new layout/strategy produced statistically significant sales improvement.
+Delivered an executive-ready dashboard enabling business teams to monitor store performance and trial outcomes.
 
 ##  Overview
 
