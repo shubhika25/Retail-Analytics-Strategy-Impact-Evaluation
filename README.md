@@ -1,11 +1,15 @@
-#  Situation
+# Retail Marketing Trial – Sales Uplift Analysis
+
+This project measures the effectiveness of a retail marketing intervention by comparing trial stores against matched control stores to determine if the strategy produced a statistically valid uplift in sales.
+
+## Problem Statement
 
 A retail client operating multiple stores wanted to understand:
 Which customer segments preferred specific products.
 Which segments should be targeted to drive higher sales.
 Whether changes in store layout or marketing strategy resulted in a measurable sales uplift.
 
-# Task
+## Task
 
 Evaluate the impact of the trial by:
 
@@ -14,7 +18,7 @@ Building a dashboard summarizing insights.
 Identifying matched control stores.
 Comparing trial vs control to quantify uplift statistically.
 
-# Action
+## Action
 
 Conducted extensive EDA to understand customer behavior, segment preferences, and historical sales patterns.
 Designed an interactive Power BI dashboard providing Sales Overview, Customer Segmentation, and Store Performance insights.
@@ -22,12 +26,12 @@ Selected control stores based on similarity to the trial stores across multiple 
 Applied normalization/scaling to align baseline performance for fair comparison.
 Performed trial-period uplift analysis using confidence intervals and statistical validation.
 
-# Result
+##  Key Outcomes
 
-Identified clear customer segments for targeted campaigns.
-Measured the true uplift in trial stores beyond normal expected variation.
-Demonstrated whether the new layout/strategy produced statistically significant sales improvement.
-Delivered an executive-ready dashboard enabling business teams to monitor store performance and trial outcomes.
+- One trial store showed a clear, statistically significant positive uplift during the marketing campaign.  
+- Another trial store showed moderate uplift with mixed confidence.  
+- Premium customers, specific brands, and young-family contributed meaningfully to uplift.  
+- Power BI visualizations presenting sales Overview and Customer Analysis
 
 ##  Overview
 
@@ -36,14 +40,7 @@ Delivered an executive-ready dashboard enabling business teams to monitor store 
 - Measured whether trial sales exceeded statistically expected ranges using confidence-based validation.  
 - Designed a modern Power BI dashboard summarizing customer insights.
 
----
 
-##  Key Outcomes
-
-- One trial store showed a clear, statistically significant positive uplift during the marketing campaign.  
-- Another trial store showed moderate uplift with mixed confidence.  
-- Premium customers, specific brands, and young-family contributed meaningfully to uplift.  
-- Power BI visualizations presenting sales Overview and Customer Analysis
 
 ---
 
